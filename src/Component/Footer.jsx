@@ -11,7 +11,7 @@ export default function Footer() {
             </div>
             <div className="social-links">
                 <a href="https://github.com/DEVA-BIR" className="social-icon" target="_blank"><i className="fa-brands fa-github"></i></a>
-                <a href="https://www.linkedin.com/in/dawit-birhanu-4b2b2b2b2/" className="social-icon" target="_blank"><i className="fa-brands fa-linkedin-in"></i></a>
+                <a href="https://www.linkedin.com/in/dawit-birhanu-b26a78300?utm_source=share_via&utm_content=profile&utm_medium=member_android" className="social-icon" target="_blank"><i className="fa-brands fa-linkedin-in"></i></a>
                 <a href="mailto:dawitbirhanu2323@gmail.com" className="social-icon"><i className="fa-solid fa-envelope"></i></a>
             </div>
         </div>

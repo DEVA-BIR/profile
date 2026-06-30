@@ -14,7 +14,7 @@ export default function Header() {
                     <li><a href="#projects">Projects</a></li>
                 </ul>
             </nav>
-            <a href="mailto:your-email@domain.com" className="cta-nav">Let's Talk <i className="fa-solid fa-arrow-up-right-from-square" style={{ fontSize: "0.75rem" }}></i></a>
+            <a href="mailto:dawitbirhanu2323@gmail.com" className="cta-nav">Let's Talk <i className="fa-solid fa-arrow-up-right-from-square" style={{ fontSize: "0.75rem" }}></i></a>
         </div>
     </header>
     </div>
