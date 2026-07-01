@@ -37,7 +37,7 @@ export default function Main() {
             <p>Electrical &amp; Computer Engineering graduate specializing in responsive front-end designs alongside robust backend systems. I balance interface details with complex structural logic.</p>
             <div className="btn-container">
                 <a href="#projects" className="btn btn-primary">View My Work <i className="fa-solid fa-arrow-down"></i></a>
-                <a href="mailto:your-email@domain.com" className="btn btn-secondary">Contact Me</a>
+                <a href="https://www.linkedin.com/in/dawit-birhanu-b26a78300?utm_source=share_via&utm_content=profile&utm_medium=member_android" className="btn btn-secondary">Contact Me</a>
             </div>
         </div>
     </section>
