@@ -139,7 +139,7 @@ export default function Main() {
                     
                     <div className="project-links">
                         {/* Replace '#' with your actual URLs */}
-                        <a href="https://managementclone.netlify.app/" className="project-link" target="_blank"><i className="fa-solid fa-globe"></i> Live Demo</a>
+                        <a href="https://garage-management-clone.vercel.app/" className="project-link" target="_blank"><i className="fa-solid fa-globe"></i> Live Demo</a>
                         <a href="https://github.com/DEVA-BIR/Garage.git" className="project-link" target="_blank"><i className="fa-brands fa-github"></i> Code</a>
                     </div>
                 </div>
@@ -157,7 +157,7 @@ export default function Main() {
                     <div className="project-tags"><span>React</span><span>HTML5</span><span>CSS Advanced</span></div>
                     
                     <div className="project-links">
-                        <a href="https://apppless.netlify.app/" className="project-link" target="_blank"><i className="fa-solid fa-globe"></i> Live Demo</a>
+                        <a href="https://transcendent-dango-c9e83c.netlify.app/" className="project-link" target="_blank"><i className="fa-solid fa-globe"></i> Live Demo</a>
                         <a href="https://github.com/DEVA-BIR/Apple.git" className="project-link" target="_blank"><i className="fa-brands fa-github"></i> Code</a>
                     </div>
                 </div>
@@ -193,7 +193,7 @@ export default function Main() {
                     <div className="project-tags"><span>React</span><span>Bootstrap</span><span>JavaScript</span></div>
                     
                     <div className="project-links">
-                        <a href="https://amzonfrontend.netlify.app/" className="project-link" target="_blank"><i className="fa-solid fa-globe"></i> Live Demo</a>
+                        <a href="https://amazonia-cloness.vercel.app/" className="project-link" target="_blank"><i className="fa-solid fa-globe"></i> Live Demo</a>
                         <a href="https://github.com/DEVA-BIR/Amazon-carousel.git" className="project-link" target="_blank"><i className="fa-brands fa-github"></i> Code</a>
                     </div>
                 </div>
