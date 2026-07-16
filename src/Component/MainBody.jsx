@@ -139,7 +139,7 @@ export default function Main() {
                     
                     <div className="project-links">
                         {/* Replace '#' with your actual URLs */}
-                        <a href="https://garage-management-clone.vercel.app/" className="project-link" target="_blank"><i className="fa-solid fa-globe"></i> Live Demo</a>
+                        <a href="https://garage-management-rho.vercel.app/" className="project-link" target="_blank"><i className="fa-solid fa-globe"></i> Live Demo</a>
                         <a href="https://github.com/DEVA-BIR/Garage.git" className="project-link" target="_blank"><i className="fa-brands fa-github"></i> Code</a>
                     </div>
                 </div>
