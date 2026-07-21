@@ -1,16 +1,124 @@
-# React + Vite
+<h1 align="center">Hi 👋, I'm Dawit Birhanu</h1>
 
-This template provides a minimal setup to get React working in Vite with HMR and some Oxlint rules.
+<h3 align="center">Full-Stack Developer | Open to Internship & Freelance Opportunities</h3>
 
-Currently, two official plugins are available:
+<p align="center">
+📍 Addis Ababa, Ethiopia
+</p>
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+---
 
-## React Compiler
+## 👨‍💻 About Me
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+I'm a passionate **Full-Stack Developer** who enjoys building modern, responsive, and scalable web applications.
 
-## Expanding the Oxlint configuration
+I have hands-on experience developing full-stack projects using **React, Node.js, Express, and MySQL**, and I'm continuously improving my skills by building real-world applications.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and Oxlint's TypeScript related rules in your project.
+🚀 **Currently Open To**
+- 💼 Full-Stack Developer Internship
+- 🎨 Frontend Developer Internship
+- ⚙️ Backend Developer Internship
+- 🌍 Freelance Web Development Projects
+
+📫 **Let's connect!** If you have an opportunity or would like to collaborate, feel free to reach out.
+
+---
+
+## 💻 Tech Stack
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,javascript,react,nodejs,express,mysql,github,vscode,vite,vercel,postman,npm" />
+</p>
+
+---
+
+## 🚀 Featured Project
+
+### 🚗 Garage Management System
+
+A full-stack web application designed to streamline garage operations by managing employees, customers, vehicles, and service orders.
+
+### Features
+
+- 🔐 JWT Authentication
+- 👨‍🔧 Employee Management
+- 👥 Customer Management
+- 🚗 Vehicle Management
+- 📋 Service Order Management
+- 📊 Dashboard
+- 📱 Responsive Design
+- ⚡ RESTful API
+- 💾 MySQL Database Integration
+
+**Tech Used**
+
+React • Node.js • Express • MySQL • JWT • REST API • Vercel • Render
+
+---
+
+## 🌟 Other Projects
+
+I have also built responsive real-world clone applications to strengthen my frontend development skills.
+
+- 🍎 Apple Website Clone
+- 🛒 Amazon Clone
+- 🎬 Netflix Clone
+
+These projects helped me improve my knowledge of responsive design, component-based architecture, API integration, and modern frontend development.
+
+---
+
+## 🌱 Currently Learning
+
+- Advanced React
+- Backend API Development
+- Authentication & Security
+- Database Design
+- System Design
+- Cloud Deployment
+- TypeScript
+
+---
+
+## 🛠️ Tools I Use
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=windows,vscode,git,github,figma,postman,vercel,npm" />
+</p>
+
+---
+
+## 📈 GitHub Stats
+
+> **Tip:** Replace `DEVA-BIR` with your GitHub username.
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=DEVA-BIRE&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=DEVA-BIRE&theme=tokyonight" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DEVA-BIRE&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 📫 Contact Me
+
+- 📧 Email: dawitbirhanu2323@gmail.com
+- 💼 LinkedIn: https://linkedin.com/in/Dawit Birhanu
+- 🌐 Portfolio: https://dawitbirhanu.vercel.app/
+- 🐙 GitHub: https://github.com/DEVA-BIR
+
+---
+
+<h3 align="center">
+⭐ Thanks for visiting my profile! ⭐
+</h3>
+
+<p align="center">
+Always learning • Always building • Open to new opportunities 🚀
+</p>
