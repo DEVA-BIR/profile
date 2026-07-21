@@ -93,15 +93,15 @@ These projects helped me improve my knowledge of responsive design, component-ba
 > **Tip:** Replace `DEVA-BIR` with your GitHub username.
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=DEVA-BIRE&show_icons=true&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api?username=DEVA-BIR &show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=DEVA-BIRE&theme=tokyonight" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=DEVA-BIR&theme=tokyonight" />
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DEVA-BIRE&layout=compact&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DEVA-BIR &layout=compact&theme=tokyonight" />
 </p>
 
 ---
@@ -109,7 +109,7 @@ These projects helped me improve my knowledge of responsive design, component-ba
 ## 📫 Contact Me
 
 - 📧 Email: dawitbirhanu2323@gmail.com
-- 💼 LinkedIn: https://linkedin.com/in/Dawit Birhanu
+- 💼 LinkedIn: https://www.linkedin.com/in/dawit-birhanu-b26a78300?utm_
 - 🌐 Portfolio: https://dawitbirhanu.vercel.app/
 - 🐙 GitHub: https://github.com/DEVA-BIR
 
