@@ -201,6 +201,8 @@ export default function Main() {
             </div>
 
         </div>
+        
+        {/* Desu Computer Solution */}
         <div className="project-card">
                 <div className="project-visual">
                      {/* PLACEHOLDER FOR PROJECT SCREENSHOT */}
