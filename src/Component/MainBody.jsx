@@ -6,7 +6,6 @@ import apple from "../Images/Apples.jpeg"
 import netflix from "../Images/netflix.png"
 import amazon from "../Images/AMAZON.jpg"
 import garage from "../Images/garage.png"
-import Desu from "../Images/DESU_Last.jpeg"
 import '@fortawesome/fontawesome-free/css/all.min.css';
 export default function Main() {
     const sections = document.querySelectorAll('section');
@@ -198,15 +197,16 @@ export default function Main() {
                         <a href="https://github.com/DEVA-BIR/Amazon-carousel.git" className="project-link" target="_blank"><i className="fa-brands fa-github"></i> Code</a>
                     </div>
                 </div>
-                 <div className="project-card">
+            </div>
+           </div>
+            <div className="project-card">
                 <div className="project-visual">
                     {/* PLACEHOLDER FOR PROJECT SCREENSHOT */}
                     <img src={Desu} alt="Desu Computer Solution" />
                 </div>
                 <div className="project-content">
                     <h3>Desu Computer Solution</h3>
-                    <p>Comprehensive computer solution management platform handling customer orders, device service workflows, relational database operations, and optimized input API validation layers.
-</p>
+                    <p>Comprehensive computer solution management platform handling customer orders, device service workflows, relational database operations, and optimized input API validation layers.</p>
                     <div className="project-tags"><span>Node.js</span><span>MySQL</span><span>Express</span></div>
                     
                     <div className="project-links">
@@ -216,9 +216,6 @@ export default function Main() {
                     </div>
                 </div>
             </div>
-            </div>
-
-        </div>
     </section>
     </div>
   )
