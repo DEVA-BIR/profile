@@ -389,10 +389,12 @@
 
         /* --- 4. PROJECTS SECTION --- */
         .projects-grid {
-            display: grid;
-            grid-template-columns: repeat(auto-fit, minmax(340px, 1fr));
-            gap: 30px;
-        }
+                          display: grid;
+                          grid-template-columns: repeat(auto-fit, minmax(280px, 340px));
+                          justify-content: center;
+                          align-items: stretch;
+                          gap: 30px;
+}
 
         .project-card {
             background: var(--bg-card);
@@ -578,30 +580,49 @@
         }
 
         /* --- RESPONSIVE DESIGN --- */
-        @media (max-width: 968px) {
-            #home {
-                grid-template-columns: 1fr;
-                text-align: center;
-                gap: 40px;
-                padding-top: 120px;
-            }
-            .hero-image-wrapper {
-                order: -1;
-            }
-            .image-frame {
-                width: 280px;
-                height: 280px;
-            }
-            .hero-content p {
-                margin: 0 auto 30px auto;
-            }
-            .btn-container {
-                justify-content: center;
-            }
-            .about-grid {
-                grid-template-columns: 1fr;
-            }
-            nav ul, .cta-nav {
-                display: none; 
-            }
-        }
+        /* --- RESPONSIVE DESIGN --- */
+@media (max-width: 968px) {
+    #home {
+        grid-template-columns: 1fr;
+        text-align: center;
+        gap: 40px;
+        padding-top: 120px;
+    }
+
+    .hero-image-wrapper {
+        order: -1;
+    }
+
+    .image-frame {
+        width: 280px;
+        height: 280px;
+    }
+
+    .hero-content p {
+        margin: 0 auto 30px;
+    }
+
+    .btn-container {
+        justify-content: center;
+    }
+
+    .about-grid {
+        grid-template-columns: 1fr;
+    }
+
+    .projects-grid {
+        grid-template-columns: repeat(2, minmax(280px, 340px));
+        justify-content: center;
+    }
+
+    nav ul,
+    .cta-nav {
+        display: none;
+    }
+}
+
+@media (max-width: 650px) {
+    .projects-grid {
+        grid-template-columns: 1fr;
+    }
+}
