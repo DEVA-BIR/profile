@@ -163,7 +163,7 @@ export default function Main() {
                     </div>
                 </div>
             </div>
-            
+
             <div className="project-card">
                 <div className="project-visual">
                      {/* PLACEHOLDER FOR PROJECT SCREENSHOT */}
@@ -171,7 +171,7 @@ export default function Main() {
                 </div>
                 <div className="project-content">
                     <h3>Desu Computer Solution</h3>
-                    <p>Comprehensive computer solution management platform handling customer orders, device service workflows, relational database operations, and optimized input API validation layers.</p>
+                    <p>Full-stack web application for managing computer repair services, featuring user authentication, dynamic data handling, and responsive design.</p>
                     <div className="project-tags"><span>Node.js</span><span>MySQL</span><span>Express</span></div>
                     
                     <div className="project-links">
