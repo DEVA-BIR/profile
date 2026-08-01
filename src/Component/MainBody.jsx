@@ -6,7 +6,7 @@ import apple from "../Images/Apples.jpeg"
 import netflix from "../Images/netflix.png"
 import amazon from "../Images/AMAZON.jpg"
 import garage from "../Images/garage.png"
-import Desu from "../Images/DESU_Last.jpeg"
+import Desu from "../Images/Dessus.png"
 import '@fortawesome/fontawesome-free/css/all.min.css';
 export default function Main() {
     const sections = document.querySelectorAll('section');
