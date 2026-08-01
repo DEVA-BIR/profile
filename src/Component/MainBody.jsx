@@ -163,6 +163,23 @@ export default function Main() {
                     </div>
                 </div>
             </div>
+            
+            <div className="project-card">
+                <div className="project-visual">
+                     {/* PLACEHOLDER FOR PROJECT SCREENSHOT */}
+                    <img src={Desu} alt="Desu Computer Solution" />
+                </div>
+                <div className="project-content">
+                    <h3>Desu Computer Solution</h3>
+                    <p>Comprehensive computer solution management platform handling customer orders, device service workflows, relational database operations, and optimized input API validation layers.</p>
+                    <div className="project-tags"><span>Node.js</span><span>MySQL</span><span>Express</span></div>
+                    
+                    <div className="project-links">
+                        <a href="https://computer-solution-psi-self.vercel.app/" className="project-link" target="_blank"><i className="fa-solid fa-globe"></i> Live Demo</a>
+                        <a href="https://github.com/DEVA-BIR/Computer-Solution.git" className="project-link" target="_blank"><i className="fa-brands fa-github"></i> Code</a>
+                    </div>
+                </div>
+            </div>
 
             {/* Netflix Clone */}
             <div className="project-card">
@@ -199,27 +216,7 @@ export default function Main() {
                     </div>
                 </div>
             </div>
-
-        </div>
-        
-        {/* Desu Computer Solution */}
-        <div className="project-card">
-                <div className="project-visual">
-                     {/* PLACEHOLDER FOR PROJECT SCREENSHOT */}
-                    <img src={Desu} alt="Desu Computer Solution" />
-                </div>
-                <div className="project-content">
-                    <h3>Desu Computer Solution</h3>
-                    <p>Comprehensive computer solution management platform handling customer orders, device service workflows, relational database operations, and optimized input API validation layers.</p>
-                    <div className="project-tags"><span>Node.js</span><span>MySQL</span><span>Express</span></div>
-                    
-                    <div className="project-links">
-                        <a href="https://computer-solution-psi-self.vercel.app/" className="project-link" target="_blank"><i className="fa-solid fa-globe"></i> Live Demo</a>
-                        <a href="https://github.com/DEVA-BIR/Computer-Solution.git" className="project-link" target="_blank"><i className="fa-brands fa-github"></i> Code</a>
-                    </div>
-                </div>
-            </div>
-        
+        </div> 
     </section>
     </div>
    
