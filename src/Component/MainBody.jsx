@@ -211,7 +211,7 @@ export default function Main() {
                     <div className="project-tags"><span>React</span><span>Bootstrap</span><span>JavaScript</span></div>
                     
                     <div className="project-links">
-                        <a href="https://amazonia-cloness.vercel.app/" className="project-link" target="_blank"><i className="fa-solid fa-globe"></i> Live Demo</a>
+                        <a href="https://amazonenfake-carousel.vercel.app/" className="project-link" target="_blank"><i className="fa-solid fa-globe"></i> Live Demo</a>
                         <a href="https://github.com/DEVA-BIR/Amazon-carousel.git" className="project-link" target="_blank"><i className="fa-brands fa-github"></i> Code</a>
                     </div>
                 </div>
