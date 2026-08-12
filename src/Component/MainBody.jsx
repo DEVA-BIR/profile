@@ -50,7 +50,7 @@ export default function Main() {
                     </p>
             <div className="btn-container">
                 <a
-                            href="../Images/Dawit_Updated.pdf"
+                            href="/Dawit_Updated.pdf"
                             download="Dawit_Updated.pdf"
                             className="btn btn-primary"
                             aria-label="Download Dawit Birhanu CV"
